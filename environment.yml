@@ -2,7 +2,7 @@ name: pilot
 channels:
   - defaults
 dependencies:
-  - python=3.11.5
+  - python=3.11.4
   - r-base
   - pip
   - pip:
